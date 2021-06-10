@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/main/.github/workflows/cobrinha.yml)
-
+![Snake animation](https://github.com/CarlaKremer/CarlaKremer/blob/output/github-contribution-grid-snake.svg)
