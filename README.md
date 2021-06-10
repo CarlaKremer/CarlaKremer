@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##
 
 ![Snake animation](https://github.com/CarlaKremer/CarlaKremer/blob/main/.github/workflows/cobrin.yml)
+![image](https://user-images.githubusercontent.com/79385449/121597182-c8176600-ca16-11eb-9c43-be5b12809952.png)
 
